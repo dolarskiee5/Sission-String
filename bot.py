@@ -1,6 +1,7 @@
 import asyncio, pyrogram
-api_id =26758806
-api_hash =37995a8d6e7ae01de1fb7595c6cebeb6
+
+api_id ="26758806"
+api_hash ="37995a8d6e7ae01de1fb7595c6cebeb6"
 async def main():
  async with pyrogram.Client(
   name="app",
