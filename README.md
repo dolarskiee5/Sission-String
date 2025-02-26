@@ -9,7 +9,7 @@ Tool sederhana untuk mendapatkan session string Telegram.
 apt update && apt upgrade
 apt install python3 python3-pip git -y
 pip3 install pyrogram tgcrypto
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 
 # Clone dan jalankan
